@@ -11,11 +11,11 @@ A simple BMI (Body Mass Index) Calculator project.
 - Beginner-friendly project
 
 ## Technologies Used
-- Python / HTML / CSS / JavaScript
+- Python 
 
 ## How to Run
 1. Clone the repository
-2. Run the file or open index.html
+2. Run the file 
 
 ## Output
 Shows BMI value and health category.
